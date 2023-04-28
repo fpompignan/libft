@@ -2,11 +2,11 @@
 
 42's first project, recoding the standard C library.
 
-## Final grade : 107/115
+## Final grade : 125/100
 
 Mandatory part : 100/100
 
-Bonus : 7/15
+Bonus : 25/25
 
 ### How to use it
 
